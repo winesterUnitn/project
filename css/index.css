@@ -131,6 +131,13 @@ h6 {
   }
 }
 
+@media (max-width: 1110px) {
+  .overlay img {
+    transform: scale(0.3);
+    margin-left: 8em;
+  }
+}
+
 /* Tablet */
 @media (max-width: 769px) {
   .overlay img {
